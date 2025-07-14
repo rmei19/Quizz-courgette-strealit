@@ -1,1052 +1,311 @@
 [
   {
-    "question": "Ton pire cauchemar ? (version 1)",
+    "question": "Tu arrives en retard à une réunion, tu...",
     "choices": [
       [
-        "Être poli",
-        "caillou"
-      ],
-      [
-        "Être végétarien",
+        "Lances une blague pour détendre",
         "saucisse"
       ],
       [
-        "Une sécheresse",
+        "T'excuses avec sincérité",
         "courgette"
       ],
       [
-        "Le nettoyage de rue",
+        "N'expliques rien, tu t'assoies",
+        "caillou"
+      ],
+      [
+        "Soupires bruyamment, c’est pas ta faute",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ton rêve ultime ? (version 2)",
+    "question": "Ton placard est vide, tu commandes :",
     "choices": [
       [
-        "Être servi dans un hot-dog géant",
+        "Un kebab double viande",
         "saucisse"
       ],
       [
-        "Vivre dans une serre bio",
+        "Un buddha bowl",
         "courgette"
       ],
       [
-        "Être exposé dans un musée d’histoire naturelle",
+        "Tu bois de l’eau et tu dors",
         "caillou"
       ],
       [
-        "S'évaporer tranquillement",
+        "Des chips et une sauce chelou",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ta série préférée ? (version 3)",
+    "question": "Ta plante meurt. Tu fais quoi ?",
     "choices": [
       [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ],
-      [
-        "Silence ça pousse",
-        "courgette"
-      ],
-      [
-        "Top Chef",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Quel est ton super pouvoir caché ? (version 4)",
-    "choices": [
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 5)",
-    "choices": [
-      [
-        "Un bac à compost",
-        "courgette"
-      ],
-      [
-        "Une dalle de béton",
-        "caillou"
-      ],
-      [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Un barbecue mobile",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 6)",
-    "choices": [
-      [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Un barbecue mobile",
+        "Tu l’utilises comme déco sèche",
         "saucisse"
       ],
       [
-        "Un bac à compost",
+        "Tu pleures un peu",
         "courgette"
       ],
       [
-        "Une dalle de béton",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Quel est ton super pouvoir caché ? (version 7)",
-    "choices": [
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
+        "Tu l’ignores",
         "caillou"
       ],
       [
-        "Être invisible mais toujours présent",
+        "Tu l’arroses avec ton café froid",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ? (version 8)",
+    "question": "Un inconnu t’adresse un compliment dans la rue :",
     "choices": [
       [
-        "Produire une odeur irrésistible en grillant",
+        "Tu souris franchement",
         "saucisse"
       ],
       [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Quel est ton super pouvoir caché ? (version 9)",
-    "choices": [
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ],
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Guérir par les plantes",
+        "Tu rougis",
         "courgette"
       ],
       [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 10)",
-    "choices": [
-      [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Un barbecue mobile",
-        "saucisse"
-      ],
-      [
-        "Une dalle de béton",
+        "Tu continues sans réagir",
         "caillou"
       ],
       [
-        "Un bac à compost",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Quel est ton super pouvoir caché ? (version 11)",
-    "choices": [
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ],
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Ton rêve ultime ? (version 12)",
-    "choices": [
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ],
-      [
-        "S'évaporer tranquillement",
-        "crotte de chien"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Ta série préférée ? (version 13)",
-    "choices": [
-      [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ],
-      [
-        "Silence ça pousse",
-        "courgette"
-      ],
-      [
-        "Top Chef",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 14)",
-    "choices": [
-      [
-        "Une dalle de béton",
-        "caillou"
-      ],
-      [
-        "Un barbecue mobile",
-        "saucisse"
-      ],
-      [
-        "Un bac à compost",
-        "courgette"
-      ],
-      [
-        "Un tapis oublié sous la pluie",
+        "Tu dis : 'bah ouais'",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ton rêve ultime ? (version 15)",
+    "question": "Le matin, tu es plutôt :",
     "choices": [
       [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
+        "Grillé dès 7h",
         "saucisse"
       ],
       [
-        "Vivre dans une serre bio",
+        "Un peu croquant, très vert",
         "courgette"
       ],
       [
-        "S'évaporer tranquillement",
+        "Froid, dense, muet",
+        "caillou"
+      ],
+      [
+        "Écrasé dans ton lit",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ton pire cauchemar ? (version 16)",
+    "question": "Ton style de communication :",
     "choices": [
       [
-        "Être poli",
-        "caillou"
-      ],
-      [
-        "Le nettoyage de rue",
-        "crotte de chien"
-      ],
-      [
-        "Une sécheresse",
-        "courgette"
-      ],
-      [
-        "Être végétarien",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 17)",
-    "choices": [
-      [
-        "Une dalle de béton",
-        "caillou"
-      ],
-      [
-        "Un barbecue mobile",
+        "Direct, efficace",
         "saucisse"
       ],
       [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Un bac à compost",
+        "Empathique et à l’écoute",
         "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Ton pire cauchemar ? (version 18)",
-    "choices": [
-      [
-        "Le nettoyage de rue",
-        "crotte de chien"
       ],
       [
-        "Être végétarien",
-        "saucisse"
-      ],
-      [
-        "Être poli",
+        "Monosyllabique",
         "caillou"
       ],
       [
-        "Une sécheresse",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Quel est ton super pouvoir caché ? (version 19)",
-    "choices": [
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Être invisible mais toujours présent",
+        "Confus, parfois déplacé",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ta série préférée ? (version 20)",
+    "question": "Une qualité qu’on te reconnaît souvent :",
     "choices": [
       [
-        "Top Chef",
+        "Chaleureux",
         "saucisse"
       ],
       [
-        "Silence ça pousse",
+        "Sain",
         "courgette"
       ],
       [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Quel est ton super pouvoir caché ? (version 21)",
-    "choices": [
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
+        "Solide",
         "caillou"
       ],
       [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Ta série préférée ? (version 22)",
-    "choices": [
-      [
-        "Top Chef",
-        "saucisse"
-      ],
-      [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ],
-      [
-        "Silence ça pousse",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Ton rêve ultime ? (version 23)",
-    "choices": [
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
-        "saucisse"
-      ],
-      [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ],
-      [
-        "S'évaporer tranquillement",
+        "Inattendu",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ton pire cauchemar ? (version 24)",
+    "question": "Une soirée réussie, c’est :",
     "choices": [
       [
-        "Être poli",
-        "caillou"
-      ],
-      [
-        "Être végétarien",
+        "Un gros barbecue",
         "saucisse"
       ],
       [
-        "Le nettoyage de rue",
-        "crotte de chien"
-      ],
-      [
-        "Une sécheresse",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Ton pire cauchemar ? (version 25)",
-    "choices": [
-      [
-        "Une sécheresse",
+        "Un dîner végétarien entre amis",
         "courgette"
       ],
       [
-        "Le nettoyage de rue",
-        "crotte de chien"
-      ],
-      [
-        "Être végétarien",
-        "saucisse"
-      ],
-      [
-        "Être poli",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Ta série préférée ? (version 26)",
-    "choices": [
-      [
-        "Silence ça pousse",
-        "courgette"
-      ],
-      [
-        "Top Chef",
-        "saucisse"
-      ],
-      [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Ton pire cauchemar ? (version 27)",
-    "choices": [
-      [
-        "Une sécheresse",
-        "courgette"
-      ],
-      [
-        "Être poli",
+        "Observer les gens sans parler",
         "caillou"
       ],
       [
-        "Être végétarien",
-        "saucisse"
-      ],
-      [
-        "Le nettoyage de rue",
+        "Danser dans une cave qui sent le renfermé",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ton rêve ultime ? (version 28)",
+    "question": "Tu croises un miroir :",
     "choices": [
       [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ],
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
+        "Tu te trouves appétissant",
         "saucisse"
       ],
       [
-        "S'évaporer tranquillement",
+        "Tu ajustes une mèche",
+        "courgette"
+      ],
+      [
+        "Tu te regardes sans bouger",
+        "caillou"
+      ],
+      [
+        "Tu t’étonnes d’être encore vivant",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ? (version 29)",
+    "question": "Un enfant te demande ce que tu fais dans la vie :",
     "choices": [
       [
-        "Produire une odeur irrésistible en grillant",
+        "'Je rends les gens heureux'",
         "saucisse"
       ],
       [
-        "Guérir par les plantes",
+        "'Je pousse doucement'",
         "courgette"
       ],
       [
-        "Ne jamais bouger même sous pression",
+        "'Je reste là'",
         "caillou"
       ],
       [
-        "Être invisible mais toujours présent",
+        "'Je suis là par erreur'",
         "crotte de chien"
       ]
     ]
   },
   {
-    "question": "Ton rêve ultime ? (version 30)",
+    "question": "Quel est ton super pouvoir caché ?",
     "choices": [
-      [
-        "S'évaporer tranquillement",
-        "crotte de chien"
-      ],
-      [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ],
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
-        "saucisse"
-      ]
+      ["Guérir par les plantes", "courgette"],
+      ["Être invisible mais toujours présent", "crotte de chien"],
+      ["Produire une odeur irrésistible en grillant", "saucisse"],
+      ["Ne jamais bouger même sous pression", "caillou"]
     ]
   },
   {
-    "question": "Ton pire cauchemar ? (version 31)",
+    "question": "Si tu étais un meuble ?",
     "choices": [
-      [
-        "Être poli",
-        "caillou"
-      ],
-      [
-        "Une sécheresse",
-        "courgette"
-      ],
-      [
-        "Le nettoyage de rue",
-        "crotte de chien"
-      ],
-      [
-        "Être végétarien",
-        "saucisse"
-      ]
+      ["Un bac à compost", "courgette"],
+      ["Une dalle de béton", "caillou"],
+      ["Un tapis oublié sous la pluie", "crotte de chien"],
+      ["Un barbecue mobile", "saucisse"]
     ]
   },
   {
-    "question": "Ta série préférée ? (version 32)",
+    "question": "Ta série préférée ?",
     "choices": [
-      [
-        "Silence ça pousse",
-        "courgette"
-      ],
-      [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ],
-      [
-        "Top Chef",
-        "saucisse"
-      ]
+      ["Top Chef", "saucisse"],
+      ["Les dessous des villes", "crotte de chien"],
+      ["Silence ça pousse", "courgette"],
+      ["C'est pas sorcier - géologie", "caillou"]
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ? (version 33)",
+    "question": "Ton rêve ultime ?",
     "choices": [
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ],
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ]
+      ["S'évaporer tranquillement", "crotte de chien"],
+      ["Être exposé dans un musée d’histoire naturelle", "caillou"],
+      ["Vivre dans une serre bio", "courgette"],
+      ["Être servi dans un hot-dog géant", "saucisse"]
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ? (version 34)",
+    "question": "Ton pire cauchemar ?",
     "choices": [
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ]
+      ["Être végétarien", "saucisse"],
+      ["Le nettoyage de rue", "crotte de chien"],
+      ["Être poli", "caillou"],
+      ["Une sécheresse", "courgette"]
     ]
   },
   {
-    "question": "Ton rêve ultime ? (version 35)",
+    "question": "Quel est ton super pouvoir caché ?",
     "choices": [
-      [
-        "Être servi dans un hot-dog géant",
-        "saucisse"
-      ],
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "S'évaporer tranquillement",
-        "crotte de chien"
-      ],
-      [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ]
+      ["Être invisible mais toujours présent", "crotte de chien"],
+      ["Produire une odeur irrésistible en grillant", "saucisse"],
+      ["Guérir par les plantes", "courgette"],
+      ["Ne jamais bouger même sous pression", "caillou"]
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ? (version 36)",
+    "question": "Si tu étais un meuble, tu serait ?",
     "choices": [
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ],
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ]
+      ["Un tapis oublié sous la pluie", "crotte de chien"],
+      ["Un barbecue mobile", "saucisse"],
+      ["Un bac à compost", "courgette"],
+      ["Une dalle de béton", "caillou"]
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ? (version 37)",
+    "question": "Ta série préférée ?",
     "choices": [
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ]
+      ["Silence ça pousse", "courgette"],
+      ["C'est pas sorcier - géologie", "caillou"],
+      ["Top Chef", "saucisse"],
+      ["Les dessous des villes", "crotte de chien"]
     ]
   },
   {
-    "question": "Ton rêve ultime ? (version 38)",
+    "question": "Ton rêve ultime ?",
     "choices": [
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "S'évaporer tranquillement",
-        "crotte de chien"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
-        "saucisse"
-      ],
-      [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ]
+      ["Être servi dans un hot-dog géant", "saucisse"],
+      ["S'évaporer tranquillement", "crotte de chien"],
+      ["Être exposé dans un musée d’histoire naturelle", "caillou"],
+      ["Vivre dans une serre bio", "courgette"]
     ]
   },
   {
-    "question": "Si tu étais un meuble ? (version 39)",
+    "question": "Ton pire cauchemar ?",
     "choices": [
-      [
-        "Un bac à compost",
-        "courgette"
-      ],
-      [
-        "Un barbecue mobile",
-        "saucisse"
-      ],
-      [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Une dalle de béton",
-        "caillou"
-      ]
+      ["Être poli", "caillou"],
+      ["Être végétarien", "saucisse"],
+      ["Une sécheresse", "courgette"],
+      ["Le nettoyage de rue", "crotte de chien"]
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ? (version 40)",
+    "question": "Ton pire cauchemar ?",
     "choices": [
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ],
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Ton pire cauchemar ? (version 41)",
-    "choices": [
-      [
-        "Une sécheresse",
-        "courgette"
-      ],
-      [
-        "Être poli",
-        "caillou"
-      ],
-      [
-        "Être végétarien",
-        "saucisse"
-      ],
-      [
-        "Le nettoyage de rue",
-        "crotte de chien"
-      ]
-    ]
-  },
-  {
-    "question": "Ta série préférée ? (version 42)",
-    "choices": [
-      [
-        "Silence ça pousse",
-        "courgette"
-      ],
-      [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "Top Chef",
-        "saucisse"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 43)",
-    "choices": [
-      [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Un barbecue mobile",
-        "saucisse"
-      ],
-      [
-        "Une dalle de béton",
-        "caillou"
-      ],
-      [
-        "Un bac à compost",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Ton pire cauchemar ? (version 44)",
-    "choices": [
-      [
-        "Une sécheresse",
-        "courgette"
-      ],
-      [
-        "Être végétarien",
-        "saucisse"
-      ],
-      [
-        "Être poli",
-        "caillou"
-      ],
-      [
-        "Le nettoyage de rue",
-        "crotte de chien"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 45)",
-    "choices": [
-      [
-        "Une dalle de béton",
-        "caillou"
-      ],
-      [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Un bac à compost",
-        "courgette"
-      ],
-      [
-        "Un barbecue mobile",
-        "saucisse"
-      ]
-    ]
-  },
-  {
-    "question": "Quel est ton super pouvoir caché ? (version 46)",
-    "choices": [
-      [
-        "Produire une odeur irrésistible en grillant",
-        "saucisse"
-      ],
-      [
-        "Être invisible mais toujours présent",
-        "crotte de chien"
-      ],
-      [
-        "Guérir par les plantes",
-        "courgette"
-      ],
-      [
-        "Ne jamais bouger même sous pression",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Si tu étais un meuble ? (version 47)",
-    "choices": [
-      [
-        "Un barbecue mobile",
-        "saucisse"
-      ],
-      [
-        "Un tapis oublié sous la pluie",
-        "crotte de chien"
-      ],
-      [
-        "Un bac à compost",
-        "courgette"
-      ],
-      [
-        "Une dalle de béton",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Ton rêve ultime ? (version 48)",
-    "choices": [
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "S'évaporer tranquillement",
-        "crotte de chien"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
-        "saucisse"
-      ],
-      [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ]
-    ]
-  },
-  {
-    "question": "Ta série préférée ? (version 49)",
-    "choices": [
-      [
-        "Top Chef",
-        "saucisse"
-      ],
-      [
-        "Les dessous des villes",
-        "crotte de chien"
-      ],
-      [
-        "C'est pas sorcier - géologie",
-        "caillou"
-      ],
-      [
-        "Silence ça pousse",
-        "courgette"
-      ]
-    ]
-  },
-  {
-    "question": "Ton rêve ultime ? (version 50)",
-    "choices": [
-      [
-        "Vivre dans une serre bio",
-        "courgette"
-      ],
-      [
-        "Être servi dans un hot-dog géant",
-        "saucisse"
-      ],
-      [
-        "Être exposé dans un musée d’histoire naturelle",
-        "caillou"
-      ],
-      [
-        "S'évaporer tranquillement",
-        "crotte de chien"
-      ]
+      ["Le nettoyage de rue", "crotte de chien"],
+      ["Une sécheresse", "courgette"],
+      ["Être végétarien", "saucisse"],
+      ["Être poli", "caillou"]
     ]
   }
 ]
