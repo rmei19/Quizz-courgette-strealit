@@ -26,7 +26,7 @@ def restart_quiz():
 st.title("Quel est ton vrai toi ?")
 
 if not st.session_state.started:
-    st.markdown("**Saucisse**, **Courgette**, **Caillou** ou... *Crotte de chien* ? 🧠\n\nUn test ultra scientifique pour découvrir ta véritable essence.")
+    st.markdown("**Saucisse**, **Courgette**, **Caillou** ou... *Crotte de chien* ? 🧠\n\nUn test ultra scientifique pour découvrir ta véritable nature en dix questions.\n\nCliquez deux fois sur chaque reponse.")
     if st.button("Commencer le quiz"):
         st.session_state.started = True
 
