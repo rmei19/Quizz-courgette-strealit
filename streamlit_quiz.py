@@ -41,7 +41,6 @@ elif st.session_state.current < len(st.session_state.questions):
                 st.session_state.scores[profil] += 1
                 st.session_state.current += 1
                 st.session_state.last_clicked = f"{q_index}_{i}"
-                st.experimental_rerun()  # <<< Optionnel ici, on peut même le retirer si tu préfères
 
 else:
     st.subheader("Résultat final 🎉")
