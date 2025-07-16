@@ -35,7 +35,7 @@ elif st.session_state.current < len(st.session_state.questions):
     question = st.session_state.questions[q_index]
     progress = (st.session_state.current / len(st.session_state.questions))
 st.progress(progress)
-    st.markdown(f"### Question {q_index + 1} : {question['question']}")
+st.markdown(f"### Question {q_index + 1} : {question['question']}")
 
     # Afficher les choix avec un radio button
     choice_texts = [text for text, _ in question["choices"]]
