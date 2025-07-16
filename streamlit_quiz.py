@@ -15,10 +15,10 @@ descriptions = {
 }
 
 image_paths = {
-    "saucisse": "images/saucisse.png",
-    "courgette": "images/courgette.png",
-    "caillou": "images/caillou.png",
-    "crotte de chien": "images/crotte.png"
+    "saucisse": "saucisse.png",
+    "courgette": "courgette.png",
+    "caillou": "caillou.png",
+    "crotte de chien": "crotte.png"
 }
 
 # Initialisation de la session
