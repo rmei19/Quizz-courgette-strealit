@@ -34,22 +34,22 @@ elif st.session_state.current < len(st.session_state.questions):
     q_index = st.session_state.current
     question = st.session_state.questions[q_index]
     progress = (st.session_state.current / len(st.session_state.questions))
+    
 st.progress(progress)
 st.markdown(f"### Question {q_index + 1} : {question['question']}")
+# Afficher les choix avec un radio button
+choice_texts = [text for text, _ in question["choices"]]
+selected = st.radio("Fais ton choix :", choice_texts, key=f"radio_{q_index}")
 
-    # Afficher les choix avec un radio button
-    choice_texts = [text for text, _ in question["choices"]]
-    selected = st.radio("Fais ton choix :", choice_texts, key=f"radio_{q_index}")
-
-    # Afficher le bouton pour valider
-    if selected:
-        if st.button("Question suivante ▶️"):
-            for text, profil in question["choices"]:
-                if text == selected:
-                    st.session_state.scores[profil] += 1
-                    break
-            st.session_state.current += 1
-            st.session_state.selected_answer = None
+# Afficher le bouton pour valider
+if selected:
+    if st.button("Question suivante ▶️"):
+        for text, profil in question["choices"]:
+            if text == selected:
+                st.session_state.scores[profil] += 1
+                break
+        st.session_state.current += 1
+        st.session_state.selected_answer = None
 
 else:
     st.subheader("Résultat final 🎉")
