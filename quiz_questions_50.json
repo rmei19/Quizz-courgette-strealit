@@ -210,12 +210,12 @@
     ]
   },
   {
-    "question": "Quel est ton super pouvoir caché ?",
+    "question": "si tu habitait a Dizimieu, tu t'apellerait ?",
     "choices": [
-      ["Guérir par les plantes", "courgette"],
-      ["Être invisible mais toujours présent", "crotte de chien"],
-      ["Produire une odeur irrésistible en grillant", "saucisse"],
-      ["Ne jamais bouger même sous pression", "caillou"]
+      ["Laura", "courgette"],
+      ["Bastien", "crotte de chien"],
+      ["Louison", "saucisse"],
+      ["Camille", "caillou"]
     ]
   },
   {
@@ -282,12 +282,12 @@
     ]
   },
   {
-    "question": "Ton rêve ultime ?",
+    "question": "si tu habitait a annoisin, tu serait :",
     "choices": [
-      ["Être servi dans un hot-dog géant", "saucisse"],
-      ["S'évaporer tranquillement", "crotte de chien"],
-      ["Être exposé dans un musée d’histoire naturelle", "caillou"],
-      ["Vivre dans une serre bio", "courgette"]
+      ["Rémi", "saucisse"],
+      ["Bastien", "crotte de chien"],
+      ["Florine", "caillou"],
+      ["Laura", "courgette"]
     ]
   },
   {
